@@ -1,0 +1,55 @@
+.Background{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 3rem;
+    align-items: center;
+    margin-bottom: 3rem;
+}
+.Background-top{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+.Background-top > h1{
+    font-size: 2rem;
+    width: 50%;
+    align-self: center;
+    color: rgb(255, 159, 175);
+    margin-bottom: 0.5rem;
+}
+.Background-top > p{
+    font-size: 1.1rem;
+    width: 50%;
+    align-self: center;
+    color: rgb(0, 0, 0);
+    margin-top: 0.5rem;
+}
+.Background-bottom{
+    display: flex;
+    justify-content: center;
+    
+    width: 60%;
+}
+.Background-bottom-card{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+}
+.Background-card-img{
+    width: 90%;
+    align-self: center;
+}
+.Background-card-header{
+    margin-left: 5%;
+    margin-bottom: 0.5rem;
+    font-size: 1.3rem;
+    color: rgb(255, 159, 175);
+}
+.Background-card-text{
+    margin-left: 5%;
+    margin-top: 0.5rem;
+}

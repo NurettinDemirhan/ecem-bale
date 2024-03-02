@@ -1,0 +1,33 @@
+.Header{
+    width: 100%;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+.Header-img{
+    width: 100%;
+}
+.Header-text{
+    position: absolute;
+    top: 10%;
+    width: 100%;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    
+}
+.Header-link{
+    text-decoration: none;
+    justify-content: center;
+    text-align: center;
+    font-size: 1.2rem;
+    color: pink;
+    border: 1px solid pink;
+    padding: 0.5rem;
+    border-radius: 20px;
+}
+.Header-link:hover{
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+}

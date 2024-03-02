@@ -1,0 +1,67 @@
+
+.Navbar{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+}
+.Navbar-top{
+    
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.Navbar-top-text{
+    color: white;
+    font-size: 1rem;
+    margin: 0.3rem;
+    justify-content: center;
+}
+.Navbar-main{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    background-color: rgb(235, 138, 154);
+    color: white;
+}
+.Navbar-left{
+    padding-right: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.Navbar-left-text{
+    width: 100%;
+    text-align: left;
+}
+.Navbar-left-Header-up{
+    font-size: 2rem;
+    margin-top: 0.3rem;
+    margin-bottom:0.1rem;
+}
+.Navbar-left-Header-down{
+    font-size: 1rem;
+    margin-top:0.1rem;
+    margin-bottom: 0.3rem;
+}
+.Navbar-right{
+    
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    
+    
+}
+.Navbar-right-link{
+    color: white;
+    padding: 1rem;
+    
+    text-decoration: none;
+    
+}
+.Navbar-right-link:hover{
+    text-decoration: underline;
+    background-color: black;
+}
