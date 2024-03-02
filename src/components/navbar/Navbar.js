@@ -18,9 +18,9 @@ export default function Navbar(){
 
                 <section className='Navbar-right'>
                     <a href="/" className='Navbar-right-link'>Ana Sayfa</a>
-                    <a href="/" className='Navbar-right-link'>Kadromuz</a>
-                    <a href="/" className='Navbar-right-link'>Kurslarımız</a>
-                    <a href="/" className='Navbar-right-link'>Gösterilerimiz</a>
+                    <a href="#background" className='Navbar-right-link'>Hakkımızda</a>
+                    {/* <a href="/" className='Navbar-right-link'>Kurslarımız</a>
+                    <a href="/" className='Navbar-right-link'>Gösterilerimiz</a> */}
                     <a href="/" className='Navbar-right-link'>İletişim</a>
                 </section>
             </div>
