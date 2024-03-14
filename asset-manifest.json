@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ecem-bale/static/css/main.de72874e.css",
+    "main.js": "/ecem-bale/static/js/main.deb2f3d8.js",
+    "static/js/453.07bae776.chunk.js": "/ecem-bale/static/js/453.07bae776.chunk.js",
+    "static/media/ecembale1.jpg": "/ecem-bale/static/media/ecembale1.b269e68964f4e5e9f1b9.jpg",
+    "index.html": "/ecem-bale/index.html",
+    "main.de72874e.css.map": "/ecem-bale/static/css/main.de72874e.css.map",
+    "main.deb2f3d8.js.map": "/ecem-bale/static/js/main.deb2f3d8.js.map",
+    "453.07bae776.chunk.js.map": "/ecem-bale/static/js/453.07bae776.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de72874e.css",
+    "static/js/main.deb2f3d8.js"
+  ]
+}
