@@ -11,6 +11,7 @@ export default function Background(){
                 2014'den bugüne Kdz.Ereğli'nin ilk ve tek bale okulu. 
                 Profesyonel eğitmenler eşliğinde, akademik eğitim ile hizmet vermektedir.
                 <br/><br/>Bir çocuğa ömür boyu verilebilecek en güzel hediye, bale eğitimi!</p>
+                <a href="/InfoPage">Detaylı Bilgi Almak İçin Tıklayın</a>
             </div>
             <div className="Background-bottom">
                 <section className="Background-bottom-card">
@@ -25,8 +26,7 @@ export default function Background(){
                     <img className="Background-card-img" src={backgroundImg} alt="Bale" />
                     <h1 className="Background-card-header">Alanında uzman eğitmenler</h1>
                     <p className="Background-card-text">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Ut enim 
+                    Okulumuzda geçmişten bugüne görev alan tüm eğitmenlerimiz hassasiyetle seçilmiştir. Ecem Bale Okulunun kuruculuğunu yapan eğitmenler dünya çapında kabul gören sayılı companylerin arasında yer alan Ankara Devlet Opera ve Balesi sanatçılarındandır. 
                     </p>
                 </section>
                 <section className="Background-bottom-card">

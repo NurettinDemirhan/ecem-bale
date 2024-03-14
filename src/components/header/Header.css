@@ -3,13 +3,14 @@
     position: relative;
     display: inline-block;
     text-align: center;
+    padding-top: 3rem;
 }
 .Header-img{
     width: 100%;
 }
 .Header-text{
     position: absolute;
-    top: 10%;
+    top: 5rem;
     width: 100%;
     color: white;
     font-size: 24px;
@@ -25,6 +26,8 @@
     border: 1px solid pink;
     padding: 0.5rem;
     border-radius: 20px;
+    scroll-behavior: smooth;
+    cursor: pointer;
 }
 .Header-link:hover{
     background-color: black;
